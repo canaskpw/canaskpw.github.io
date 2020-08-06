@@ -9,12 +9,10 @@ tags:
 ---
 
 ## 摘要
-
-<!-- more -->
 # Greenplum实现Oracle兼容函数
 近期在做一个系统由Oracle到Greenplum上的迁移，Oracle存储过程逻辑中使用的函数在Greenplum没有，由于Oracle不开源只能自定义GP函数来实现同样的逻辑，一个个自定义函数工程量比较大，在阅读官方文档时发现有通过实现orafunc实现Oracle兼容函数的功能。遂在PC上使用docker快速搭建Greenplum环境实现orafunc兼容函数后在开发、生产环境安装，减小工作量提升开发效率。
 好记性不如烂笔头，作此笔记
-
+<!-- more -->
 ## 查询orafunc.sql路径
 ```shell
 [gpadmin@mdw gpseg-1]$ find / -name orafunc*
