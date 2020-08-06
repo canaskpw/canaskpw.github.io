@@ -77,7 +77,7 @@ COMMIT
 
 ```
 
-##查看已安装的Oracle兼容函数
+## 查看已安装的Oracle兼容函数
 ```shell
 [gpadmin@mdw gpseg-1]$ psql -d hhb_db
 psql (8.3.23)
