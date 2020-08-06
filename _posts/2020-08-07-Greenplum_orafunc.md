@@ -14,6 +14,7 @@ tags:
 好记性不如烂笔头，作此笔记
 
 <!-- more -->
+
 ## 查询orafunc.sql路径
 ```shell
 [gpadmin@mdw gpseg-1]$ find / -name orafunc*

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7075e557-14e4-440f-ae6f-f1817918ad36" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2020-08-07-Greenplum_orafunc.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-08-07-Greenplum_orafunc.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fjhvqKfhjBsp5mmOFXXPHrf0fY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SYS_DATE\blog\canaskpw.github.io\_posts" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7075e557-14e4-440f-ae6f-f1817918ad36" name="默认的" comment="" />
+      <created>1596737642372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596737642372</updated>
+      <workItem from="1596737644381" duration="1950000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1596738154355</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596738154355</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2020-08-07-Greenplum_orafunc">
+      <created>1596738808659</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596738808659</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2020-08-07-Greenplum_orafunc">
+      <created>1596739123408</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596739123408</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2020-08-07-Greenplum_orafunc">
+      <created>1596739451674</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596739451674</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="2020-08-07-Greenplum_orafunc" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-08-07-Greenplum_orafunc" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="-988" key="CommitChangelistDialog2" timestamp="1596739450013">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="548" y="-988" key="CommitChangelistDialog2/0.-1080.1920.1050/0.0.1920.1050@0.-1080.1920.1050" timestamp="1596739450013" />
+    <state x="184" y="-993" key="MergeDialog" timestamp="1596738018838">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="184" y="-993" key="MergeDialog/0.-1080.1920.1050/0.0.1920.1050@0.-1080.1920.1050" timestamp="1596738018838" />
+    <state x="370" y="-706" width="1063" height="480" key="MultipleFileMergeDialog" timestamp="1596738045465">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="370" y="-706" width="1063" height="480" key="MultipleFileMergeDialog/0.-1080.1920.1050/0.0.1920.1050@0.-1080.1920.1050" timestamp="1596738045465" />
+    <state x="552" y="-822" key="Vcs.Push.Dialog.v2" timestamp="1596739389949">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="552" y="-822" key="Vcs.Push.Dialog.v2/0.-1080.1920.1050/0.0.1920.1050@0.-1080.1920.1050" timestamp="1596739389949" />
+  </component>
+</project>
